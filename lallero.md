@@ -1,5 +1,0 @@
-# stica
-
-create!
-
-update
